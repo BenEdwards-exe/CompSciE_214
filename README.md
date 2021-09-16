@@ -1,5 +1,7 @@
 # CompSciE_214
 
+## Computer Science 214 Project
+
 
 How to run the game:
 1. Click the Clone or Download button and then Download ZIP.
